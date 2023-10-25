@@ -17,8 +17,11 @@ Summarizing YouTube video captions into a video description.
 Set up a YouTube Data API key:
 
 a. Go to the Google Cloud Console (https://console.cloud.google.com/).
+
 b. Create a new project.
+
 c. Enable the YouTube Data API for the project.
+
 d. Create credentials and generate an API key.
 
 ```
