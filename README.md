@@ -68,12 +68,13 @@ Replace "YOUR_YOUTUBE_API_KEY" with your actual YouTube Data API key and "YOUR_V
 
 Please note that this code uses the Gensim library for text summarization, which may not always produce perfect summaries. You may need to fine-tune the summarization parameters to achieve the desired level of brevity and coherence in the summaries.
 #
+
 ### REFERENCES
 
 [DownSub](https://downsub.com/)
-<br />
+
 [download-youtube-subtitle](https://pypi.org/project/download-youtube-subtitle/)
-<br />
+
 [Text Summarization in Python](https://www.mygreatlearning.com/blog/text-summarization-in-python/)
-<br />
+
 [ChatGPT Plugin](https://video-summary.copilot.us/)
