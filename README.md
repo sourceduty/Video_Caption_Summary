@@ -75,3 +75,5 @@ Please note that this code uses the Gensim library for text summarization, which
 [download-youtube-subtitle](https://pypi.org/project/download-youtube-subtitle/)
 <br />
 [Text Summarization in Python](https://www.mygreatlearning.com/blog/text-summarization-in-python/)
+<br />
+[ChatGPT Plugin](https://video-summary.copilot.us/)
